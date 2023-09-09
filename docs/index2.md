@@ -497,3 +497,115 @@ Categorie 8: account wipe
 | Overheidsbaan | Criminele organisatie  | 14 kalenderdagen | 
 | Criminele organisatie | Criminele organisatie | 14 kalenderdagen | 
 | Criminele organisatie | Overheidsbaan | 14 kalenderdagen | 
+
+## Artikel 52 - Deelname aan overheidsberoep
+
+1. Een werkgever van een overheidsberoep is verplicht om een geldig VOG te kunnen overhandigen van zijn werknemers.
+2. Een werknemer moet in het bezit zijn van een geldig VOG als deze een overheidsberoep uitvoert.
+3. Overtreding van lid 2 zal resulteren in een straf van de 2e categorie en ontslag bij dit beroep een verbod op uitoefenen hier van 1 maand.
+4. Als een werkgever herhaaldelijk lid 1 overtreed zal de Hogeraad zich buigen over een gepaste straf
+
+## Artikel 53 - Demonstreren
+
+1. Het is verboden om in grote groepen samen te komen en te demonstreren zonder dat hier:
+- Schriftelijk toestemming voor is van de hogeraad.
+- Één persoon de leiding heeft bij deze groep.
+- Een aangewezen plek is voor de demonstratie.
+2. Bij overtreding van één van deze regel zullen alle betrokken personen een straf krijgen van de 2e categorie.
+3. Mocht de demonstratie uit de hand lopen indien deze wel voldoet aan lid 1 zal de leidinggevende persoon een straf krijgen van de 3e categorie.
+
+## Artikel 54 - Borgtocht
+
+1. Op het moment dat een persoon op borgtocht wordt gestuurd door de politie, dan ligt het scenario tussen de politie en de desbetreffende persoon stil.
+2. Er dient aan alle voorwaarden van de borgtocht gehouden te worden.
+3. Het is niet toegestaan om spullen (zoals wapens, drugs en dergelijke) die vóór de aanhouding in het appartement/voertuig zaten hieruit te halen of over te dragen naar andere personen op het moment dat een persoon op borgtocht is gestuurd.
+4. Bij overtreding van lid 1, 2 of 3 zal een straf worden gegeven van de 1e categorie en zal het roleplayscenario worden teruggedraaid.
+
+## Artikel 55 - Refunds
+
+1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart.
+2. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
+3.Refunds die vallen onder lid 2 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
+
+## Artikel 56 - Appartementen
+
+1. Het oplichten van een persoon, verkopen en inkopen van wapens, verkopen en opkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
+2. Bij overtreding van lid 1. Zal dit resulteren in een straf volgens de 4e categorie voor alle betrokken partijen.
+
+## Artikel 57 - Erotische Roleplay(ERP)
+
+1. Het is verboden om een Erotische roleplay uit te voeren of aan te gaan.
+2. Uitzondering van het feit genoemd in lid 1 zal binnen de Hoge Raad besproken moeten worden. Enkel voorbeeld hiervan:
+- Enkel dansen als dansers in clubs.
+3. Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 7e categorie.
+
+## Narcopolis
+
+Onderstaande regels tellen alleen op Narcopolis
+
+## Artikel N-1 - Schieten vanaf het vasteland en water
+
+1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
+2. Het is vanuit de koninklijke marechaussee verboden om op het vasteland te schieten.
+3. Bij overtreding van lid 1 of lid 2 zal een straf worden gegeven van de 1e categorie.
+4. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
+
+## Artikel N-2 - Landen van helikopers/vliegtuigen
+
+1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
+2. De sea sparrow en dodo mag wel op open water rondom het eiland geland worden.
+3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
+
+## Artikel N-3 - Campen van een niet actieve drugslocatie
+
+1. Het campen van een niet actieve drugslocatie Narcopolis is niet toegestaan.
+2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
+
+## Artikel N-4 - Samenwerking criminele organisaties
+
+1. Op Narcopolis is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
+2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
+3. Bij overtreding van lid 1 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
+4. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
+
+## Tijdelijke bepalingen
+
+## Artikel T-1 - Uitbreken uit de gevangenis
+
+1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
+2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
+
+## Slotbepaling: Regels in het kort
+
+- Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
+- Geen VDM (Vehicle deathmatch, je wagen als wapen gebruiken).
+- Geen RDM (Random deathmatch, zonder goede reden mensen dood slaan/ schieten).
+- Geen Cheats (Uiteraard is het niet toegestaan om cheats te gebruiken om jezelf een voordeel te geven en dit zal dan ook resulteren is een regelrechte ban)
+- Geen Exploits (Bugs / Misstanden misbruiken om hier zelf en/of voor andere profijt uit te halen).
+- Geen server/roleplay verstorend gedrag (Mic spammen, trollen etc).
+- Geen Metagaming (Gebruik maken van informatie wat jouw karakter niet kan weten en of andere discord kanalen dan de main discord).
+- Geen Overheidsvoertuigen stelen of kleding dragen.(Politie, ambulance en ANWB auto’s mogen niet door burgers gereden worden).
+- Geen Cop-baiting (politie uitdagen/uitlokken).
+- Geen Spam (de chat vol spammen met nutteloze berichten)
+- Geen Combat Logging (Zomaar de server verlaten tijden bijvoorbeeld een ontvoering).
+- Niet overdreven schelden. (Geen Kanker en dergelijke, maakt niet uit of het bij je karakter hoort of niet. Hier wordt extra streng op gestraft.)
+- Houd het realistisch, ga niet met een Lamborghini door de woestijn racen met 200 km/h, of met auto's gebouwen in.
+- Ga zuinig om met je leven, dus niet zomaar zelfmoord plegen zonder reden.
+- Wanneer je bent gerespawned herinnert jouw karakter niets van wat er met je gebeurd is. Je weet nog wel dingen als je Baan en je vrienden maar je weet niet hoe je bent doodgegaan of door wie en dergelijke.
+- Het is verboden om OOC te praten/je karakter te breken.
+- Het is VERPLICHT een microfoon te hebben om te kunnen communiceren en Roleplayen.
+- Nederlands kunnen spreken is verplicht.
+- Je kunt alleen contant geld stelen bank geld kan niet gestolen worden.
+- Werk je bij de overheidsdiensten dan geldt er een zero tolerance beleid met bate tot drugs of criminele activiteiten. Wordt je ingame gepakt door een agent of ziet een stafflid dit, dan betekent dit einde baan. Het is daarnaast verboden om overheidsvoorwerpen te verkopen of weg te geven en dit is ban-waardig. Denk hierbij aan wapens, medkits, of in beslag genomen voertuigen en drugs, ook is het verboden om je beroep in je voordeel te gebruiken bij criminele activiteiten.
+- Gebruikt /report om mensen te rapporteren die niet naar de regels luisteren. (Maakt de RP veel beter).
+- Niet ADVERTEREN met je eigen server/discord in de server zowel als op de discord.
+- Gebruik Twitter voor in character berichten, dus juist voor Roleplay.
+- Het is verboden voertuigen van jobs te gebruiken voor criminaliteit denk hierbij aan bijvoorbeeld een vuilnis truck.
+- Buiten game communiceren is verboden, dit mag alleen door overheidsdiensten gebruikt worden in porto kanalen of bij een vrijstelling
+- Het is verboden op alt accounts geld of wat voor materieel dan ook uit te wisselen
+- Het is verboden met voertuigen gebouwen in te rijden.
+- Onder de AFK-kick proberen uit te komen is verboden.
+- Ben je als agent niet in game, mag je niet deelnemen aan een overval.
+- Wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
+- Het is verboden een ambulancier of anwb'er te vermoorden of te ontvoeren bij een oproep of gebruik van hun.
+- Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
