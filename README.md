@@ -1,1 +1,1 @@
-# beneveen-wetboek
+# beneveenwetboek
