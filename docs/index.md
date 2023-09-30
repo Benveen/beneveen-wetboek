@@ -1,4 +1,4 @@
-# Beneveen Roleplay Wetboek
+# FreeCity Roleplay Wetboek
 
 
 
@@ -30,9 +30,9 @@ Bijlage I Douanerisicogebieden
 
 ## Artikel 1 	Reikwijdte
 
-1. Het Wetboek Beneveen Roleplay (verder aangeduid als WBR) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is. 
+1. Het Wetboek FreeCity Roleplay (verder aangeduid als WBR) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is. 
 
-2. Het WBR heeft betrekking op het vaste land en eiland van Beneveen Roleplay 
+2. Het WBR heeft betrekking op het vaste land en eiland van FreeCity Roleplay 
 
 
 
@@ -63,7 +63,7 @@ e. Boetes.
  
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt. 
  
-3. Minderjarigen worden binnen Beneveen Roleplay, op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Beneveen Roleplay niet van toepassing. 
+3. Minderjarigen worden binnen FreeCity Roleplay, op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in FreeCity Roleplay niet van toepassing. 
 
 ## Artikel 4 - Strafblad 
 
